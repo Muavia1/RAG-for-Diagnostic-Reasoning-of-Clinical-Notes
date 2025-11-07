@@ -102,5 +102,3 @@ The system retrieves relevant literature and generates **evidence-based diagnost
 * 📧 [Email](mailto:muaviaijaz@gmail.com)
 
 ---
-
-Would you like me to include a **diagram (Mermaid architecture flow)** inside the README to make it visually appealing?
